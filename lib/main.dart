@@ -69,19 +69,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Terra',
-          'image': 'https://thumbs.dreamstime.com/b/desenho-de-desenhos-desenhados-%C3%A0-m%C3%A3o-no-planeta-terra-232229552.jpg',
+          'image': 'lib/assests/Terra.png',
         },
         {
           'text': 'Vênus',
-          'image': 'https://cdn5.colorir.com/desenhos/color/201620/planeta-venus-espaco-1247327.jpg',
+          'image': 'lib/assests/Vênus.png',
         },
         {
           'text': 'Mercúrio',
-          'image': 'https://images.vexels.com/content/205473/preview/planet-mercury-illustration-993699.png',
+          'image': 'lib/assests/Mercúrio.png',
         },
         {
           'text': 'Marte',
-          'image': 'https://images.vexels.com/media/users/3/203280/isolated/lists/e4ec0e6c9a425aae4e152ef8b4a0d86a-ilustracao-do-planeta-marte.png',
+          'image': 'lib/assests/Marte.png',
         },
       ],
       'answer': 2
@@ -91,19 +91,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Vênus',
-          'image': 'https://cdn5.colorir.com/desenhos/color/201620/planeta-venus-espaco-1247327.jpg',
+          'image': 'lib/assests/Vênus.png',
         },
         {
           'text': 'Marte',
-          'image': 'https://images.vexels.com/media/users/3/203280/isolated/lists/e4ec0e6c9a425aae4e152ef8b4a0d86a-ilustracao-do-planeta-marte.png',
+          'image': 'lib/assests/Marte.png',
         },
         {
           'text': 'Júpiter',
-          'image': 'https://png.pngtree.com/png-clipart/20190630/original/pngtree-cartoon-jupiter-elemental-illustration-png-image_4179122.jpg',
+          'image': 'lib/assests/Júpiter.png',
         },
         {
           'text': 'Saturno',
-          'image': 'https://images.vexels.com/content/203379/preview/saturn-planet-illustration-664baf.png',
+          'image': 'lib/assests/Saturno.png',
         },
       ],
       'answer': 1
@@ -113,19 +113,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Júpiter',
-          'image': 'https://png.pngtree.com/png-clipart/20190630/original/pngtree-cartoon-jupiter-elemental-illustration-png-image_4179122.jpg',
+          'image': 'lib/assests/Júpiter.png',
         },
         {
           'text': 'Saturno',
-          'image': 'https://images.vexels.com/content/203379/preview/saturn-planet-illustration-664baf.png',
+          'image': 'lib/assests/Saturno.png',
         },
         {
           'text': 'Netuno',
-          'image': 'https://images.vexels.com/content/203296/preview/neptune-planet-illustration-a75bbe.png',
+          'image': 'lib/assests/Netuno.png',
         },
         {
           'text': 'Terra',
-          'image': 'https://thumbs.dreamstime.com/b/desenho-de-desenhos-desenhados-%C3%A0-m%C3%A3o-no-planeta-terra-232229552.jpg',
+          'image': 'lib/assests/Terra.png',
         },
       ],
       'answer': 0
@@ -135,19 +135,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Urano',
-          'image': 'https://images.vexels.com/media/users/3/205477/isolated/preview/65bf7bfb23e192debb56168ca3e6e4e0-ilustracao-do-planeta-urano.png',
+          'image': 'lib/assests/Urano.png',
         },
         {
           'text': 'Netuno',
-          'image': 'https://images.vexels.com/content/203296/preview/neptune-planet-illustration-a75bbe.png',
+          'image': 'lib/assests/Netuno.png',
         },
         {
           'text': 'Júpiter',
-          'image': 'https://png.pngtree.com/png-clipart/20190630/original/pngtree-cartoon-jupiter-elemental-illustration-png-image_4179122.jpg',
+          'image': 'lib/assests/Júpiter.png',
         },
         {
           'text': 'Saturno',
-          'image': 'https://images.vexels.com/content/203379/preview/saturn-planet-illustration-664baf.png',
+          'image': 'lib/assests/Saturno.png',
         },
       ],
       'answer': 3
@@ -157,19 +157,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Terra',
-          'image': 'https://thumbs.dreamstime.com/b/desenho-de-desenhos-desenhados-%C3%A0-m%C3%A3o-no-planeta-terra-232229552.jpg',
+          'image': 'lib/assests/Terra.png',
         },
         {
           'text': 'Marte',
-          'image': 'https://images.vexels.com/media/users/3/203280/isolated/lists/e4ec0e6c9a425aae4e152ef8b4a0d86a-ilustracao-do-planeta-marte.png',
+          'image': 'lib/assests/Marte.png',
         },
         {
           'text': 'Vênus',
-          'image': 'https://cdn5.colorir.com/desenhos/color/201620/planeta-venus-espaco-1247327.jpg',
+          'image': 'lib/assests/Vênus.png',
         },
         {
           'text': 'Júpiter',
-          'image': 'https://png.pngtree.com/png-clipart/20190630/original/pngtree-cartoon-jupiter-elemental-illustration-png-image_4179122.jpg',
+          'image': 'lib/assests/Júpiter.png',
         },
       ],
       'answer': 2
@@ -179,19 +179,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Júpiter',
-          'image': 'https://png.pngtree.com/png-clipart/20190630/original/pngtree-cartoon-jupiter-elemental-illustration-png-image_4179122.jpg',
+          'image': 'lib/assests/Júpiter.png',
         },
         {
           'text': 'Marte',
-          'image': 'https://images.vexels.com/media/users/3/203280/isolated/lists/e4ec0e6c9a425aae4e152ef8b4a0d86a-ilustracao-do-planeta-marte.png',
+          'image': 'lib/assests/Marte.png',
         },
         {
           'text': 'Terra',
-          'image': 'https://thumbs.dreamstime.com/b/desenho-de-desenhos-desenhados-%C3%A0-m%C3%A3o-no-planeta-terra-232229552.jpg',
+          'image': 'lib/assests/Terra.png',
         },
         {
           'text': 'Vênus',
-          'image': 'https://cdn5.colorir.com/desenhos/color/201620/planeta-venus-espaco-1247327.jpg',
+          'image': 'lib/assests/Vênus.png',
         },
       ],
       'answer': 3
@@ -201,19 +201,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Saturno',
-          'image': 'https://images.vexels.com/content/203379/preview/saturn-planet-illustration-664baf.png',
+          'image': 'lib/assests/Saturno.png',
         },
         {
           'text': 'Netuno',
-          'image': 'https://images.vexels.com/content/203296/preview/neptune-planet-illustration-a75bbe.png',
+          'image': 'lib/assests/Netuno.png',
         },
         {
           'text': 'Marte',
-          'image': 'https://images.vexels.com/media/users/3/203280/isolated/lists/e4ec0e6c9a425aae4e152ef8b4a0d86a-ilustracao-do-planeta-marte.png',
+          'image': 'lib/assests/Marte.png',
         },
         {
           'text': 'Júpiter',
-          'image': 'https://png.pngtree.com/png-clipart/20190630/original/pngtree-cartoon-jupiter-elemental-illustration-png-image_4179122.jpg',
+          'image': 'lib/assests/Júpiter.png',
         },
       ],
       'answer': 3
@@ -223,19 +223,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Marte',
-          'image': 'https://images.vexels.com/media/users/3/203280/isolated/lists/e4ec0e6c9a425aae4e152ef8b4a0d86a-ilustracao-do-planeta-marte.png',
+          'image': 'lib/assests/Marte.png',
         },
         {
           'text': 'Urano',
-          'image': 'https://images.vexels.com/media/users/3/205477/isolated/preview/65bf7bfb23e192debb56168ca3e6e4e0-ilustracao-do-planeta-urano.png',
+          'image': 'lib/assests/Urano.png',
         },
         {
           'text': 'Netuno',
-          'image': 'https://images.vexels.com/content/203296/preview/neptune-planet-illustration-a75bbe.png',
+          'image': 'lib/assests/Netuno.png',
         },
         {
           'text': 'Terra',
-          'image': 'https://thumbs.dreamstime.com/b/desenho-de-desenhos-desenhados-%C3%A0-m%C3%A3o-no-planeta-terra-232229552.jpg',
+          'image': 'lib/assests/Terra.png',
         },
       ],
       'answer': 3
@@ -245,19 +245,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Júpiter',
-          'image': 'https://png.pngtree.com/png-clipart/20190630/original/pngtree-cartoon-jupiter-elemental-illustration-png-image_4179122.jpg',
+          'image': 'lib/assests/Júpiter.png',
         },
         {
           'text': 'Netuno',
-          'image': 'https://images.vexels.com/content/203296/preview/neptune-planet-illustration-a75bbe.png',
+          'image': 'lib/assests/Netuno.png',
         },
         {
           'text': 'Vênus',
-          'image': 'https://cdn5.colorir.com/desenhos/color/201620/planeta-venus-espaco-1247327.jpg',
+          'image': 'lib/assests/Vênus.png',
         },
         {
           'text': 'Terra',
-          'image': 'https://thumbs.dreamstime.com/b/desenho-de-desenhos-desenhados-%C3%A0-m%C3%A3o-no-planeta-terra-232229552.jpg',
+          'image': 'lib/assests/Terra.png',
         },
       ],
       'answer': 1
@@ -267,19 +267,19 @@ class _QuizPageState extends State<QuizPage> {
       'options': [
         {
           'text': 'Terra',
-          'image': 'https://thumbs.dreamstime.com/b/desenho-de-desenhos-desenhados-%C3%A0-m%C3%A3o-no-planeta-terra-232229552.jpg',
+          'image': 'lib/assests/Terra.png',
         },
         {
           'text': 'Netuno',
-          'image': 'https://images.vexels.com/content/203296/preview/neptune-planet-illustration-a75bbe.png',
+          'image': 'lib/assests/Netuno.png',
         },
         {
           'text': 'Saturno',
-          'image': 'https://images.vexels.com/content/203379/preview/saturn-planet-illustration-664baf.png',
+          'image': 'lib/assests/Saturno.png',
         },
         {
           'text': 'Marte',
-          'image': 'https://images.vexels.com/media/users/3/203280/isolated/lists/e4ec0e6c9a425aae4e152ef8b4a0d86a-ilustracao-do-planeta-marte.png',
+          'image': 'lib/assests/Marte.png',
         },
       ],
       'answer': 2
